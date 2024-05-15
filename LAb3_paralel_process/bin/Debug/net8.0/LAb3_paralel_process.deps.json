@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LAb3_paralel_process/1.0.0": {
+        "runtime": {
+          "LAb3_paralel_process.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAb3_paralel_process/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

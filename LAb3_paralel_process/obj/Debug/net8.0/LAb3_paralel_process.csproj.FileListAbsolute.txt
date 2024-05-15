@@ -1,0 +1,14 @@
+C:\Users\Comp\source\repos\LAb3_paralel_process\bin\Debug\net8.0\LAb3_paralel_process.exe
+C:\Users\Comp\source\repos\LAb3_paralel_process\bin\Debug\net8.0\LAb3_paralel_process.deps.json
+C:\Users\Comp\source\repos\LAb3_paralel_process\bin\Debug\net8.0\LAb3_paralel_process.runtimeconfig.json
+C:\Users\Comp\source\repos\LAb3_paralel_process\bin\Debug\net8.0\LAb3_paralel_process.dll
+C:\Users\Comp\source\repos\LAb3_paralel_process\bin\Debug\net8.0\LAb3_paralel_process.pdb
+C:\Users\Comp\source\repos\LAb3_paralel_process\obj\Debug\net8.0\LAb3_paralel_process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\LAb3_paralel_process\obj\Debug\net8.0\LAb3_paralel_process.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\LAb3_paralel_process\obj\Debug\net8.0\LAb3_paralel_process.AssemblyInfo.cs
+C:\Users\Comp\source\repos\LAb3_paralel_process\obj\Debug\net8.0\LAb3_paralel_process.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\LAb3_paralel_process\obj\Debug\net8.0\LAb3_paralel_process.dll
+C:\Users\Comp\source\repos\LAb3_paralel_process\obj\Debug\net8.0\refint\LAb3_paralel_process.dll
+C:\Users\Comp\source\repos\LAb3_paralel_process\obj\Debug\net8.0\LAb3_paralel_process.pdb
+C:\Users\Comp\source\repos\LAb3_paralel_process\obj\Debug\net8.0\LAb3_paralel_process.genruntimeconfig.cache
+C:\Users\Comp\source\repos\LAb3_paralel_process\obj\Debug\net8.0\ref\LAb3_paralel_process.dll
